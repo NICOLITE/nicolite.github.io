@@ -13,9 +13,10 @@ tags:
                 android:layout_width="match_parent"
                 android:layout_height="0.5dp"
                 android:background="@color/black"/>
-</pre>
+```
 只需要改为
-<pre class="prettyprint linenums"><View
+```xml
+<View
                 android:layout_width="match_parent"
                 android:layout_height="0.5dp"
                 android:background="@color/black"/>
