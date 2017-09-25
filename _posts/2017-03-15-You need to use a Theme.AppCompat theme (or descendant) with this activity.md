@@ -1,5 +1,5 @@
 ---
-title: java.lang.IllegalStateException: You need to use a Theme.AppCompat theme (or descendant) with this activity.
+title:  java.lang.IllegalStateException: You need to use a Theme.AppCompat theme (or descendant) with this activity.
 date: 2017-03-15 12:39:12
 categories:
 - Android
