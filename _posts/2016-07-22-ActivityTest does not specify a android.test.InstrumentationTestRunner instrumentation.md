@@ -5,7 +5,7 @@ categories:
 - Android
 tags: 
 ---
-是权限配置问题，需要在AndroidManifest.xml 加上2条配置信息：
+是权限配置问题，需要在AndroidManifest.xml 加上2条配置信息：  
 ```xml
 <application>
      <uses-library android:name="android.test.runner" >

@@ -11,7 +11,7 @@ public interface Edible {
 	public abstract String howToEat();
 }
 ```
-TestEdible.java
+TestEdible.java  
 ```java
 public  class TestEdible {
 	public static void main(String[] args) { 
@@ -65,12 +65,12 @@ public  class TestEdible {
 	}
 }
 ```
-运行上面所示的代码将会出现如下错误：
-No enclosing instance of type xxx is accessible. Must qualify the allocation with an enclosing instance of type xxx (e.g. x.new A() where x is an instance of TestEdible).
+运行上面所示的代码将会出现如下错误：  
+No enclosing instance of type xxx is accessible. Must qualify the allocation with an enclosing instance of type xxx (e.g. x.new A() where x is an instance of TestEdible).  
 
-出现这样的错误的原因是，使用了静态方法调用动态类实例。所以我们需要将类改为静态的
+出现这样的错误的原因是，使用了静态方法调用动态类实例。所以我们需要将类改为静态的  
 
-TestEdible.java
+TestEdible.java  
 ```java
 public  class TestEdible {
 
