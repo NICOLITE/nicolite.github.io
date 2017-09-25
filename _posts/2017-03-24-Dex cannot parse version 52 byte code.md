@@ -5,7 +5,7 @@ categories:
 - Android
 tags: 
 ---
-##错误
+**错误**
 ```
 Error:Error converting bytecode to dex:
 Cause: Dex cannot parse version 52 byte code.
@@ -16,9 +16,9 @@ sourceCompatibility = '1.7'
 to that submodule's build.gradle file.
 ```
 
-##原因
+**原因**
 这是因为项目中使用了Java8导致的，很有可能是在引入的第三方库中。
-##解决方法
+**解决方法**
 **第一种：删除Java8的语法**  
 将使用了Java8语法地方修改，删除或者替换使用了Java8的第三方库。
 **第二种：修改gradle文件**  

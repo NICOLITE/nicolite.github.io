@@ -1,5 +1,5 @@
 ---
-title:  @Field parameters can only be used with form encoding
+title: \@Field parameters can only be used with form encoding
 date: 2017-08-11 10:40:23
 categories:
 - Android
@@ -20,12 +20,12 @@ at retrofit2.Retrofit$1.invoke(Retrofit.java:147)
 at java.lang.reflect.Proxy.invoke(Proxy.java:393)
 at $Proxy6.getToken(Unknown Source)
 ```
-##原因
+**原因**
 ```
 @Field parameters can only be used with form encoding. (parameter #1)
 ```
 从这句话可以看出是因为对方服务器，只支持x-www-form-urlencoded不支持form-data所致，reftrofit2默认的post请求用的就是form-data
-##解决方法
+**解决方法**
 ```java
  @FormUrlEncoded  //加上这个就可以了
     @POST("https://xxx.com/getToken")
