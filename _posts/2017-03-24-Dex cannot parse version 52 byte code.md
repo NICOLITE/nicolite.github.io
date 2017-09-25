@@ -1,5 +1,5 @@
 ---
-title: Error converting bytecode to dex: Cause: Dex cannot parse version 52 byte code.
+title: Dex cannot parse version 52 byte code.
 date: 2017-03-24 12:36:05
 categories:
 - Android
