@@ -1,0 +1,51 @@
+---
+title: Java中子类到父类的强制类型转换方法，cannot be cast to错误的解决方案
+date: 2016-07-12 11:07:39
+categories:
+- Java
+tags: 
+---
+首先看一段代码：
+```
+public class Test {
+	public static void main(String[] args){
+		Fruit fruit = new Fruit();
+		Apple apple = (Apple)fruit;
+	}
+}
+
+class Apple extends Fruit{
+	
+}
+
+class Fruit{
+	
+}
+```
+上面的代码是错误的，Object apple = (Apple)fruit;这句好像实现了父类强制转换成子类，但是当你在编译时，编译器就会给出错误cannot be cast to.....
+出现这种原因是因为在上面的代码中Fruit并不是Apple子类的一个实例，在java中只有当一个对象确实是那个子类的一个实例的情况下，才能强转换。
+<p style="text-align: justify;">例如B extends A
+A a = new B();
+B b = (B) a;
+这样是可以的。而如果是
+A a = new A();
+B b = (B) a;
+这样就是错误的</p>
+所以上述代码应改为：
+
+```
+public class Test {
+	public static void main(String[] args){
+		Fruit fruit = new Apple();
+		Apple apple = (Apple)fruit;
+	}
+}
+
+class Apple extends Fruit{
+	
+}
+
+class Fruit{
+	
+}
+```
