@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f1affee-0446-4c5f-b7a8-c960670a2813" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_includes/_helper/list_categories.html" afterPath="$PROJECT_DIR$/_includes/_helper/list_categories.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/_helper/open_graph.html" afterPath="$PROJECT_DIR$/_includes/_helper/open_graph.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/_helper/paginator.html" afterPath="$PROJECT_DIR$/_includes/_helper/paginator.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/_helper/tagcloud.html" afterPath="$PROJECT_DIR$/_includes/_helper/tagcloud.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/_helper/toc.html" afterPath="$PROJECT_DIR$/_includes/_helper/toc.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/_macro/post-copyright.html" afterPath="$PROJECT_DIR$/_includes/_macro/post-copyright.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/_macro/sidebar.html" afterPath="$PROJECT_DIR$/_includes/_macro/sidebar.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/_partials/footer.html" afterPath="$PROJECT_DIR$/_includes/_partials/footer.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/_scripts/pages/pagination.html" afterPath="$PROJECT_DIR$/_includes/_scripts/pages/pagination.html" />
-      <change beforePath="$PROJECT_DIR$/_layouts/archive.html" afterPath="$PROJECT_DIR$/_layouts/archive.html" />
-      <change beforePath="$PROJECT_DIR$/_layouts/category.html" afterPath="$PROJECT_DIR$/_layouts/category.html" />
-      <change beforePath="$PROJECT_DIR$/_layouts/layout.html" afterPath="$PROJECT_DIR$/_layouts/layout.html" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
-      <change beforePath="$PROJECT_DIR$/_layouts/tag.html" afterPath="$PROJECT_DIR$/_layouts/tag.html" />
       <change beforePath="$PROJECT_DIR$/_posts/2016-04-02-如果爱情不如此悲伤.md" afterPath="$PROJECT_DIR$/_posts/2016-04-02-如果爱情不如此悲伤.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -73,8 +58,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-04-02-如果爱情不如此悲伤.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="364">
-                <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+              <first_editor relative-caret-position="260">
+                <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -210,7 +195,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
@@ -341,7 +326,7 @@
       <workItem from="1506399342148" duration="682000" />
       <workItem from="1507173413914" duration="2410000" />
       <workItem from="1507189385596" duration="375000" />
-      <workItem from="1512653373000" duration="576000" />
+      <workItem from="1512653373000" duration="1216000" />
     </task>
     <task id="LOCAL-00001" summary="add favicon.ico">
       <created>1506313593707</created>
@@ -518,11 +503,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506353276952</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="update theme">
+      <created>1512654034813</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1512654034813</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24238000" />
+    <option name="totallyTimeSpent" value="24878000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -637,7 +629,8 @@
     <MESSAGE value="fix some bugs" />
     <MESSAGE value="add some articles" />
     <MESSAGE value="fix bugs" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix bugs" />
+    <MESSAGE value="update theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="update theme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1105,8 +1098,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-04-02-如果爱情不如此悲伤.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="364">
-            <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <first_editor relative-caret-position="260">
+            <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             <folding />
           </first_editor>
           <second_editor />
