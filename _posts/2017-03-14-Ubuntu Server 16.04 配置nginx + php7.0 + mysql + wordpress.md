@@ -15,9 +15,15 @@ sudo apt-get install libtool
 sudo apt-get install libpcre3 libpcre3-dev
 </pre>
 <h3>安装 ssl依赖库</h3>
-<pre class="prettyprint linenums">apt-get install openssl
+<pre class="prettyprint linenums">
+sudo apt-get install openssl
+</pre>
+<h3>安装 zlib依赖库</h3>
+<pre class="prettyprint linenums">
+ sudo apt-get install zlib1g-dev
 </pre>
 <h3>编译安装nginx</h3>
+
 参考<a href="http://www.cnblogs.com/piscesLoveCc/p/5794926.html">Ubuntu16.04安装nginx</a>
 <pre class="prettyprint linenums">#下载nginx，这里使用最新稳定版，该版本支持安全狗：
 wget http://wget http://nginx.org/download/nginx-1.10.3.tar.gz
@@ -39,6 +45,7 @@ sudo /usr/local/nginx/sbin/nginx -c /usr/local/nginx/conf/nginx.conf
 #查看nginx进程：
 ps -ef|grep nginx
 </pre>
+
 <h3>nginx常用命令</h3>
 <pre class="prettyprint linenums">#启动nginx
 sudo /usr/local/nginx/sbin/nginx
