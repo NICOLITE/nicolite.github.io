@@ -1,9 +1,392 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f1affee-0446-4c5f-b7a8-c960670a2813" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-12-11-将签名等敏感信息放入*.properties文件中.md" />
+    <list default="true" id="6f1affee-0446-4c5f-b7a8-c960670a2813" name="Default" comment="update">
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-02-16-在Ubuntu下驱动bcm43430a0无线网卡.md" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/jekyll-theme-next.iml" afterPath="$PROJECT_DIR$/.idea/jekyll-theme-next.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/404.html" />
+      <change beforePath="$PROJECT_DIR$/CNAME" afterPath="$PROJECT_DIR$/CNAME" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change beforePath="$PROJECT_DIR$/_data/languages/de.yml" afterPath="$PROJECT_DIR$/_data/languages/de.yml" />
+      <change beforePath="$PROJECT_DIR$/_data/languages/default.yml" afterPath="$PROJECT_DIR$/_data/languages/default.yml" />
+      <change beforePath="$PROJECT_DIR$/_data/languages/en.yml" afterPath="$PROJECT_DIR$/_data/languages/en.yml" />
+      <change beforePath="$PROJECT_DIR$/_data/languages/fr-FR.yml" afterPath="$PROJECT_DIR$/_data/languages/fr-FR.yml" />
+      <change beforePath="$PROJECT_DIR$/_data/languages/id.yml" afterPath="$PROJECT_DIR$/_data/languages/id.yml" />
+      <change beforePath="$PROJECT_DIR$/_data/languages/ja.yml" afterPath="$PROJECT_DIR$/_data/languages/ja.yml" />
+      <change beforePath="$PROJECT_DIR$/_data/languages/ko.yml" afterPath="$PROJECT_DIR$/_data/languages/ko.yml" />
+      <change beforePath="$PROJECT_DIR$/_data/languages/pt-BR.yml" afterPath="$PROJECT_DIR$/_data/languages/pt-BR.yml" />
+      <change beforePath="$PROJECT_DIR$/_data/languages/pt.yml" afterPath="$PROJECT_DIR$/_data/languages/pt.yml" />
+      <change beforePath="$PROJECT_DIR$/_data/languages/ru.yml" afterPath="$PROJECT_DIR$/_data/languages/ru.yml" />
+      <change beforePath="$PROJECT_DIR$/_data/languages/zh-Hans.yml" afterPath="$PROJECT_DIR$/_data/languages/zh-Hans.yml" />
+      <change beforePath="$PROJECT_DIR$/_data/languages/zh-hk.yml" afterPath="$PROJECT_DIR$/_data/languages/zh-hk.yml" />
+      <change beforePath="$PROJECT_DIR$/_data/languages/zh-tw.yml" afterPath="$PROJECT_DIR$/_data/languages/zh-tw.yml" />
+      <change beforePath="$PROJECT_DIR$/_includes/_blocks/page_class.html" afterPath="$PROJECT_DIR$/_includes/_blocks/page_class.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_blocks/script_extra.html" afterPath="$PROJECT_DIR$/_includes/_blocks/script_extra.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_blocks/sidebar.html" afterPath="$PROJECT_DIR$/_includes/_blocks/sidebar.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_blocks/title.html" afterPath="$PROJECT_DIR$/_includes/_blocks/title.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_custom/header.html" afterPath="$PROJECT_DIR$/_includes/_custom/header.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_custom/sidebar.html" afterPath="$PROJECT_DIR$/_includes/_custom/sidebar.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_helper/list_categories.html" afterPath="$PROJECT_DIR$/_includes/_helper/list_categories.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_helper/open_graph.html" afterPath="$PROJECT_DIR$/_includes/_helper/open_graph.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_helper/paginator.html" afterPath="$PROJECT_DIR$/_includes/_helper/paginator.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_helper/tagcloud.html" afterPath="$PROJECT_DIR$/_includes/_helper/tagcloud.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_helper/toc.html" afterPath="$PROJECT_DIR$/_includes/_helper/toc.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_layout.html" afterPath="$PROJECT_DIR$/_includes/_layout.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_macro/post-collapse.html" afterPath="$PROJECT_DIR$/_includes/_macro/post-collapse.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_macro/post-copyright.html" afterPath="$PROJECT_DIR$/_includes/_macro/post-copyright.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_macro/post.html" afterPath="$PROJECT_DIR$/_includes/_macro/post.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_macro/reward.html" afterPath="$PROJECT_DIR$/_includes/_macro/reward.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_macro/sidebar.html" afterPath="$PROJECT_DIR$/_includes/_macro/sidebar.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_macro/wechat-subscriber.html" afterPath="$PROJECT_DIR$/_includes/_macro/wechat-subscriber.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_partials/comments.html" afterPath="$PROJECT_DIR$/_includes/_partials/comments.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_partials/footer.html" afterPath="$PROJECT_DIR$/_includes/_partials/footer.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_partials/head.html" afterPath="$PROJECT_DIR$/_includes/_partials/head.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_partials/head/custom-head.html" afterPath="$PROJECT_DIR$/_includes/_partials/head/custom-head.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_partials/head/external-fonts.html" afterPath="$PROJECT_DIR$/_includes/_partials/head/external-fonts.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_partials/header.html" afterPath="$PROJECT_DIR$/_includes/_partials/header.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_partials/page-header.html" afterPath="$PROJECT_DIR$/_includes/_partials/page-header.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_partials/pagination.html" afterPath="$PROJECT_DIR$/_includes/_partials/pagination.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_partials/search.html" afterPath="$PROJECT_DIR$/_includes/_partials/search.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_partials/search/localsearch.html" afterPath="$PROJECT_DIR$/_includes/_partials/search/localsearch.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_partials/search/swiftype.html" afterPath="$PROJECT_DIR$/_includes/_partials/search/swiftype.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_partials/search/tinysou.html" afterPath="$PROJECT_DIR$/_includes/_partials/search/tinysou.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_partials/share/add-this.html" afterPath="$PROJECT_DIR$/_includes/_partials/share/add-this.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_partials/share/baidushare.html" afterPath="$PROJECT_DIR$/_includes/_partials/share/baidushare.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_partials/share/duoshuo_share.html" afterPath="$PROJECT_DIR$/_includes/_partials/share/duoshuo_share.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_partials/share/jiathis.html" afterPath="$PROJECT_DIR$/_includes/_partials/share/jiathis.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_scripts/boostrap.html" afterPath="$PROJECT_DIR$/_includes/_scripts/boostrap.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_scripts/commons.html" afterPath="$PROJECT_DIR$/_includes/_scripts/commons.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_scripts/pages/pagination.html" afterPath="$PROJECT_DIR$/_includes/_scripts/pages/pagination.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_scripts/pages/post-details.html" afterPath="$PROJECT_DIR$/_includes/_scripts/pages/post-details.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_scripts/schemes/mist.html" afterPath="$PROJECT_DIR$/_includes/_scripts/schemes/mist.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_scripts/schemes/muse.html" afterPath="$PROJECT_DIR$/_includes/_scripts/schemes/muse.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_scripts/schemes/pisces.html" afterPath="$PROJECT_DIR$/_includes/_scripts/schemes/pisces.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_scripts/vendors.html" afterPath="$PROJECT_DIR$/_includes/_scripts/vendors.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/analytics/application-insights.html" afterPath="$PROJECT_DIR$/_includes/_third-party/analytics/application-insights.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/analytics/baidu-analytics.html" afterPath="$PROJECT_DIR$/_includes/_third-party/analytics/baidu-analytics.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/analytics/busuanzi-counter.html" afterPath="$PROJECT_DIR$/_includes/_third-party/analytics/busuanzi-counter.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/analytics/cnzz-analytics.html" afterPath="$PROJECT_DIR$/_includes/_third-party/analytics/cnzz-analytics.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/analytics/facebook-sdk.html" afterPath="$PROJECT_DIR$/_includes/_third-party/analytics/facebook-sdk.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/analytics/google-analytics.html" afterPath="$PROJECT_DIR$/_includes/_third-party/analytics/google-analytics.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/analytics/index.html" afterPath="$PROJECT_DIR$/_includes/_third-party/analytics/index.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/analytics/lean-analytics.html" afterPath="$PROJECT_DIR$/_includes/_third-party/analytics/lean-analytics.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/analytics/tencent-analytics.html" afterPath="$PROJECT_DIR$/_includes/_third-party/analytics/tencent-analytics.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/analytics/tencent-mta.html" afterPath="$PROJECT_DIR$/_includes/_third-party/analytics/tencent-mta.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/analytics/vkontakte-api.html" afterPath="$PROJECT_DIR$/_includes/_third-party/analytics/vkontakte-api.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/comments/changyan.html" afterPath="$PROJECT_DIR$/_includes/_third-party/comments/changyan.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/comments/disqus.html" afterPath="$PROJECT_DIR$/_includes/_third-party/comments/disqus.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/comments/duoshuo.html" afterPath="$PROJECT_DIR$/_includes/_third-party/comments/duoshuo.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/comments/gentie.html" afterPath="$PROJECT_DIR$/_includes/_third-party/comments/gentie.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/comments/hypercomments.html" afterPath="$PROJECT_DIR$/_includes/_third-party/comments/hypercomments.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/comments/index.html" afterPath="$PROJECT_DIR$/_includes/_third-party/comments/index.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/comments/livere.html" afterPath="$PROJECT_DIR$/_includes/_third-party/comments/livere.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/comments/youyan.html" afterPath="$PROJECT_DIR$/_includes/_third-party/comments/youyan.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/duoshuo-hot-articles.html" afterPath="$PROJECT_DIR$/_includes/_third-party/duoshuo-hot-articles.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/exturl.html" afterPath="$PROJECT_DIR$/_includes/_third-party/exturl.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/mathjax.html" afterPath="$PROJECT_DIR$/_includes/_third-party/mathjax.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/rating.html" afterPath="$PROJECT_DIR$/_includes/_third-party/rating.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/schedule.html" afterPath="$PROJECT_DIR$/_includes/_third-party/schedule.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/scroll-cookie.html" afterPath="$PROJECT_DIR$/_includes/_third-party/scroll-cookie.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/search/algolia-search/assets.html" afterPath="$PROJECT_DIR$/_includes/_third-party/search/algolia-search/assets.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/search/algolia-search/dom.html" afterPath="$PROJECT_DIR$/_includes/_third-party/search/algolia-search/dom.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/search/index.html" afterPath="$PROJECT_DIR$/_includes/_third-party/search/index.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/search/localsearch.html" afterPath="$PROJECT_DIR$/_includes/_third-party/search/localsearch.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/search/tinysou.html" afterPath="$PROJECT_DIR$/_includes/_third-party/search/tinysou.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/_third-party/seo/baidu-push.html" afterPath="$PROJECT_DIR$/_includes/_third-party/seo/baidu-push.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/archive.html" afterPath="$PROJECT_DIR$/_includes/archive.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/category.html" afterPath="$PROJECT_DIR$/_includes/category.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/index.html" afterPath="$PROJECT_DIR$/_includes/index.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/page.html" afterPath="$PROJECT_DIR$/_includes/page.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/post.html" afterPath="$PROJECT_DIR$/_includes/post.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/schedule.html" afterPath="$PROJECT_DIR$/_includes/schedule.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/tag.html" afterPath="$PROJECT_DIR$/_includes/tag.html" />
+      <change beforePath="$PROJECT_DIR$/_layouts/archive.html" afterPath="$PROJECT_DIR$/_layouts/archive.html" />
+      <change beforePath="$PROJECT_DIR$/_layouts/category.html" afterPath="$PROJECT_DIR$/_layouts/category.html" />
+      <change beforePath="$PROJECT_DIR$/_layouts/index.html" afterPath="$PROJECT_DIR$/_layouts/index.html" />
+      <change beforePath="$PROJECT_DIR$/_layouts/layout.html" afterPath="$PROJECT_DIR$/_layouts/layout.html" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change beforePath="$PROJECT_DIR$/_layouts/tag.html" afterPath="$PROJECT_DIR$/_layouts/tag.html" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-03-26-当你老了.md" afterPath="$PROJECT_DIR$/_posts/2016-03-26-当你老了.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-03-30-我中有你自然你中有我.md" afterPath="$PROJECT_DIR$/_posts/2016-03-30-我中有你自然你中有我.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-03-31-给我一壶酒，慰我相思浓。.md" afterPath="$PROJECT_DIR$/_posts/2016-03-31-给我一壶酒，慰我相思浓。.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-04-02-如果爱情不如此悲伤.md" afterPath="$PROJECT_DIR$/_posts/2016-04-02-如果爱情不如此悲伤.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-04-02-爱你在相思中等待.md" afterPath="$PROJECT_DIR$/_posts/2016-04-02-爱你在相思中等待.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-07-10-System.arraycopy.md" afterPath="$PROJECT_DIR$/_posts/2016-07-10-System.arraycopy.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-07-12-Java中子类到父类强制类型转换出错解决方案.md" afterPath="$PROJECT_DIR$/_posts/2016-07-12-Java中子类到父类强制类型转换出错解决方案.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-07-17-No enclosing instance of type xxx is accessible.md" afterPath="$PROJECT_DIR$/_posts/2016-07-17-No enclosing instance of type xxx is accessible.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-07-22-ActivityTest does not specify a android.test.InstrumentationTestRunner instrumentation.md" afterPath="$PROJECT_DIR$/_posts/2016-07-22-ActivityTest does not specify a android.test.InstrumentationTestRunner instrumentation.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-08-10-Android Studio中Button等控件的Text中字符串默认大写的解决方法.md" afterPath="$PROJECT_DIR$/_posts/2016-08-10-Android Studio中Button等控件的Text中字符串默认大写的解决方法.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-09-11-解决无法使用HttpClient的问题.md" afterPath="$PROJECT_DIR$/_posts/2016-09-11-解决无法使用HttpClient的问题.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-10-02-实现Splash快速响应.md" afterPath="$PROJECT_DIR$/_posts/2016-10-02-实现Splash快速响应.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-10-03-通过Activity实现安卓Splash（启动画面）.md" afterPath="$PROJECT_DIR$/_posts/2016-10-03-通过Activity实现安卓Splash（启动画面）.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-10-24-安卓List按时间排序.md" afterPath="$PROJECT_DIR$/_posts/2016-10-24-安卓List按时间排序.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-10-28-setOnPageChangeListener 过时了怎么办.md" afterPath="$PROJECT_DIR$/_posts/2016-10-28-setOnPageChangeListener 过时了怎么办.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-12-安卓中各种单位说明.md" afterPath="$PROJECT_DIR$/_posts/2017-01-12-安卓中各种单位说明.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-12-把爱写进程序.md" afterPath="$PROJECT_DIR$/_posts/2017-01-12-把爱写进程序.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-13-Android Studio Error 前言中不允许有内容。.md" afterPath="$PROJECT_DIR$/_posts/2017-02-13-Android Studio Error 前言中不允许有内容。.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-14-Ubuntu Server 16.04 配置nginx + php7.0 + mysql + wordpress.md" afterPath="$PROJECT_DIR$/_posts/2017-03-14-Ubuntu Server 16.04 配置nginx + php7.0 + mysql + wordpress.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-15-You need to use a Theme.AppCompat theme (or descendant) with this activity.md" afterPath="$PROJECT_DIR$/_posts/2017-03-15-You need to use a Theme.AppCompat theme (or descendant) with this activity.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-17-Android按返回键应用后台运行不退出.md" afterPath="$PROJECT_DIR$/_posts/2017-03-17-Android按返回键应用后台运行不退出.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-24-Dex cannot parse version 52 byte code.md" afterPath="$PROJECT_DIR$/_posts/2017-03-24-Dex cannot parse version 52 byte code.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-05-Can't create handler inside thread that has not called Looper.prepare().md" afterPath="$PROJECT_DIR$/_posts/2017-04-05-Can't create handler inside thread that has not called Looper.prepare().md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-09-Unable to inflate view tag without class attribute.md" afterPath="$PROJECT_DIR$/_posts/2017-07-09-Unable to inflate view tag without class attribute.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-09-解决Recycler和NestedScrollView滑动冲突.md" afterPath="$PROJECT_DIR$/_posts/2017-07-09-解决Recycler和NestedScrollView滑动冲突.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-25-android不透明度对应的值.md" afterPath="$PROJECT_DIR$/_posts/2017-07-25-android不透明度对应的值.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-25-ubuntu更新源出错，无法认证来自该源的数据，所以使用它会带来潜在风险。.md" afterPath="$PROJECT_DIR$/_posts/2017-07-25-ubuntu更新源出错，无法认证来自该源的数据，所以使用它会带来潜在风险。.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-25-使用Glide实现高斯模糊.md" afterPath="$PROJECT_DIR$/_posts/2017-07-25-使用Glide实现高斯模糊.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-08-06-You must not call setTag() on a view Glide is targeting.md" afterPath="$PROJECT_DIR$/_posts/2017-08-06-You must not call setTag() on a view Glide is targeting.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-08-11-@Field parameters can only be used with form encoding.md" afterPath="$PROJECT_DIR$/_posts/2017-08-11-@Field parameters can only be used with form encoding.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-08-Android动态控制log输出.md" afterPath="$PROJECT_DIR$/_posts/2017-12-08-Android动态控制log输出.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-08-Android的加密算法（PHP服务器）.md" afterPath="$PROJECT_DIR$/_posts/2017-12-08-Android的加密算法（PHP服务器）.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-11-将签名等敏感信息放入*.properties文件中.md" afterPath="$PROJECT_DIR$/_posts/2017-12-11-将签名等敏感信息放入*.properties文件中.md" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/back-to-top-sidebar.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/back-to-top-sidebar.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/back-to-top.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/back-to-top.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/buttons.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/buttons.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/comments.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/comments.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/components.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/components.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/footer/footer.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/footer/footer.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/header/header.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/header/header.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/header/headerband.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/header/headerband.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/header/menu.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/header/menu.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/header/site-meta.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/header/site-meta.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/header/site-nav.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/header/site-nav.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/highlight/diff.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/highlight/diff.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/highlight/highlight.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/highlight/highlight.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/highlight/theme.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/highlight/theme.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/pages/archive.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/pages/archive.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/pages/categories.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/pages/categories.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/pages/pages.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/pages/pages.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/pages/post-detail.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/pages/post-detail.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/pages/schedule.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/pages/schedule.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/pagination.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/pagination.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/post/post-button.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/post/post-button.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/post/post-collapse.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/post/post-collapse.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/post/post-copyright.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/post/post-copyright.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/post/post-eof.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/post/post-eof.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/post/post-expand.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/post/post-expand.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/post/post-gallery.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/post/post-gallery.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/post/post-meta.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/post/post-meta.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/post/post-nav.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/post/post-nav.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/post/post-reward.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/post/post-reward.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/post/post-tags.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/post/post-tags.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/post/post-title.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/post/post-title.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/post/post-type.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/post/post-type.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/post/post-widgets.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/post/post-widgets.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/post/post-wordcount.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/post/post-wordcount.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/post/post.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/post/post.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/sidebar/sidebar-author-links.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/sidebar/sidebar-author-links.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/sidebar/sidebar-author.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/sidebar/sidebar-author.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/sidebar/sidebar-blogroll.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/sidebar/sidebar-blogroll.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/sidebar/sidebar-feed-link.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/sidebar/sidebar-feed-link.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/sidebar/sidebar-nav.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/sidebar/sidebar-nav.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/sidebar/sidebar-toc.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/sidebar/sidebar-toc.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/sidebar/sidebar-toggle.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/sidebar/sidebar-toggle.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/sidebar/sidebar.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/sidebar/sidebar.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/sidebar/site-state.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/sidebar/site-state.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/tag-cloud.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/tag-cloud.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/tags/blockquote-center.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/tags/blockquote-center.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/tags/exturl.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/tags/exturl.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/tags/full-image.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/tags/full-image.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/tags/group-pictures.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/tags/group-pictures.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/tags/note.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/tags/note.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/tags/tags.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/tags/tags.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/third-party/algolia-search.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/third-party/algolia-search.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/third-party/baidushare.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/third-party/baidushare.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/third-party/busuanzi-counter.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/third-party/busuanzi-counter.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/third-party/disqus.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/third-party/disqus.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/third-party/duoshuo.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/third-party/duoshuo.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/third-party/gentie.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/third-party/gentie.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/third-party/han.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/third-party/han.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/third-party/jiathis.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/third-party/jiathis.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/third-party/localsearch.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/third-party/localsearch.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/components/third-party/third-party.scss" afterPath="$PROJECT_DIR$/_sass/_common/components/third-party/third-party.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/outline/outline.scss" afterPath="$PROJECT_DIR$/_sass/_common/outline/outline.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/scaffolding/base.scss" afterPath="$PROJECT_DIR$/_sass/_common/scaffolding/base.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/scaffolding/helpers.scss" afterPath="$PROJECT_DIR$/_sass/_common/scaffolding/helpers.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/scaffolding/normalize.scss" afterPath="$PROJECT_DIR$/_sass/_common/scaffolding/normalize.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/scaffolding/scaffolding.scss" afterPath="$PROJECT_DIR$/_sass/_common/scaffolding/scaffolding.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_common/scaffolding/tables.scss" afterPath="$PROJECT_DIR$/_sass/_common/scaffolding/tables.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_custom/custom.scss" afterPath="$PROJECT_DIR$/_sass/_custom/custom.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_mixins/Mist.scss" afterPath="$PROJECT_DIR$/_sass/_mixins/Mist.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_mixins/Muse.scss" afterPath="$PROJECT_DIR$/_sass/_mixins/Muse.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_mixins/Pisces.scss" afterPath="$PROJECT_DIR$/_sass/_mixins/Pisces.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_mixins/base.scss" afterPath="$PROJECT_DIR$/_sass/_mixins/base.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_mixins/custom.scss" afterPath="$PROJECT_DIR$/_sass/_mixins/custom.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Mist/_base.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Mist/_base.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Mist/_header.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Mist/_header.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Mist/_logo.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Mist/_logo.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Mist/_menu.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Mist/_menu.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Mist/_posts-expanded.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Mist/_posts-expanded.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Mist/_search.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Mist/_search.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Mist/index.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Mist/index.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Mist/outline/outline.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Mist/outline/outline.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Mist/sidebar/sidebar-blogroll.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Mist/sidebar/sidebar-blogroll.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Muse/_layout.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Muse/_layout.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Muse/_logo.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Muse/_logo.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Muse/_menu.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Muse/_menu.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Muse/_search.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Muse/_search.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Muse/index.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Muse/index.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Muse/sidebar/sidebar-blogroll.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Muse/sidebar/sidebar-blogroll.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Pisces/_brand.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Pisces/_brand.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Pisces/_layout.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Pisces/_layout.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Pisces/_menu.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Pisces/_menu.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Pisces/_posts.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Pisces/_posts.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Pisces/_sidebar.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Pisces/_sidebar.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_schemes/Pisces/index.scss" afterPath="$PROJECT_DIR$/_sass/_schemes/Pisces/index.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_variables/Mist.scss" afterPath="$PROJECT_DIR$/_sass/_variables/Mist.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_variables/Muse.scss" afterPath="$PROJECT_DIR$/_sass/_variables/Muse.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_variables/Pisces.scss" afterPath="$PROJECT_DIR$/_sass/_variables/Pisces.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_variables/base.scss" afterPath="$PROJECT_DIR$/_sass/_variables/base.scss" />
+      <change beforePath="$PROJECT_DIR$/_sass/_variables/custom.scss" afterPath="$PROJECT_DIR$/_sass/_variables/custom.scss" />
+      <change beforePath="$PROJECT_DIR$/about/index.md" afterPath="$PROJECT_DIR$/about/index.md" />
+      <change beforePath="$PROJECT_DIR$/archives/index.html" afterPath="$PROJECT_DIR$/archives/index.html" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" afterPath="$PROJECT_DIR$/assets/css/main.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/.gitkeep" afterPath="$PROJECT_DIR$/assets/fonts/.gitkeep" />
+      <change beforePath="$PROJECT_DIR$/assets/images/algolia_logo.svg" afterPath="$PROJECT_DIR$/assets/images/algolia_logo.svg" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatar.gif" afterPath="$PROJECT_DIR$/assets/images/avatar.gif" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatar.jpg" afterPath="$PROJECT_DIR$/assets/images/avatar.jpg" />
+      <change beforePath="$PROJECT_DIR$/assets/images/button/fa-pencil-square-o.png" afterPath="$PROJECT_DIR$/assets/images/button/fa-pencil-square-o.png" />
+      <change beforePath="$PROJECT_DIR$/assets/images/cc-by-nc-nd.svg" afterPath="$PROJECT_DIR$/assets/images/cc-by-nc-nd.svg" />
+      <change beforePath="$PROJECT_DIR$/assets/images/cc-by-nc-sa.svg" afterPath="$PROJECT_DIR$/assets/images/cc-by-nc-sa.svg" />
+      <change beforePath="$PROJECT_DIR$/assets/images/cc-by-nc.svg" afterPath="$PROJECT_DIR$/assets/images/cc-by-nc.svg" />
+      <change beforePath="$PROJECT_DIR$/assets/images/cc-by-nd.svg" afterPath="$PROJECT_DIR$/assets/images/cc-by-nd.svg" />
+      <change beforePath="$PROJECT_DIR$/assets/images/cc-by-sa.svg" afterPath="$PROJECT_DIR$/assets/images/cc-by-sa.svg" />
+      <change beforePath="$PROJECT_DIR$/assets/images/cc-by.svg" afterPath="$PROJECT_DIR$/assets/images/cc-by.svg" />
+      <change beforePath="$PROJECT_DIR$/assets/images/cc-zero.svg" afterPath="$PROJECT_DIR$/assets/images/cc-zero.svg" />
+      <change beforePath="$PROJECT_DIR$/assets/images/loading.gif" afterPath="$PROJECT_DIR$/assets/images/loading.gif" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder.gif" afterPath="$PROJECT_DIR$/assets/images/placeholder.gif" />
+      <change beforePath="$PROJECT_DIR$/assets/images/quote-l.svg" afterPath="$PROJECT_DIR$/assets/images/quote-l.svg" />
+      <change beforePath="$PROJECT_DIR$/assets/images/quote-r.svg" afterPath="$PROJECT_DIR$/assets/images/quote-r.svg" />
+      <change beforePath="$PROJECT_DIR$/assets/images/searchicon.png" afterPath="$PROJECT_DIR$/assets/images/searchicon.png" />
+      <change beforePath="$PROJECT_DIR$/assets/js/src/affix.js" afterPath="$PROJECT_DIR$/assets/js/src/affix.js" />
+      <change beforePath="$PROJECT_DIR$/assets/js/src/algolia-search.js" afterPath="$PROJECT_DIR$/assets/js/src/algolia-search.js" />
+      <change beforePath="$PROJECT_DIR$/assets/js/src/bootstrap.js" afterPath="$PROJECT_DIR$/assets/js/src/bootstrap.js" />
+      <change beforePath="$PROJECT_DIR$/assets/js/src/exturl.js" afterPath="$PROJECT_DIR$/assets/js/src/exturl.js" />
+      <change beforePath="$PROJECT_DIR$/assets/js/src/hook-duoshuo.js" afterPath="$PROJECT_DIR$/assets/js/src/hook-duoshuo.js" />
+      <change beforePath="$PROJECT_DIR$/assets/js/src/js.cookie.js" afterPath="$PROJECT_DIR$/assets/js/src/js.cookie.js" />
+      <change beforePath="$PROJECT_DIR$/assets/js/src/motion.js" afterPath="$PROJECT_DIR$/assets/js/src/motion.js" />
+      <change beforePath="$PROJECT_DIR$/assets/js/src/paginator.js" afterPath="$PROJECT_DIR$/assets/js/src/paginator.js" />
+      <change beforePath="$PROJECT_DIR$/assets/js/src/post-details.js" afterPath="$PROJECT_DIR$/assets/js/src/post-details.js" />
+      <change beforePath="$PROJECT_DIR$/assets/js/src/schemes/pisces.js" afterPath="$PROJECT_DIR$/assets/js/src/schemes/pisces.js" />
+      <change beforePath="$PROJECT_DIR$/assets/js/src/scroll-cookie.js" afterPath="$PROJECT_DIR$/assets/js/src/scroll-cookie.js" />
+      <change beforePath="$PROJECT_DIR$/assets/js/src/scrollspy.js" afterPath="$PROJECT_DIR$/assets/js/src/scrollspy.js" />
+      <change beforePath="$PROJECT_DIR$/assets/js/src/utils.js" afterPath="$PROJECT_DIR$/assets/js/src/utils.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/Han/dist/font/han-space.otf" afterPath="$PROJECT_DIR$/assets/lib/Han/dist/font/han-space.otf" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/Han/dist/font/han-space.woff" afterPath="$PROJECT_DIR$/assets/lib/Han/dist/font/han-space.woff" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/Han/dist/font/han.otf" afterPath="$PROJECT_DIR$/assets/lib/Han/dist/font/han.otf" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/Han/dist/font/han.woff" afterPath="$PROJECT_DIR$/assets/lib/Han/dist/font/han.woff" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/Han/dist/han.css" afterPath="$PROJECT_DIR$/assets/lib/Han/dist/han.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/Han/dist/han.js" afterPath="$PROJECT_DIR$/assets/lib/Han/dist/han.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/Han/dist/han.min.css" afterPath="$PROJECT_DIR$/assets/lib/Han/dist/han.min.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/Han/dist/han.min.js" afterPath="$PROJECT_DIR$/assets/lib/Han/dist/han.min.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/algolia-instant-search/instantsearch.min.css" afterPath="$PROJECT_DIR$/assets/lib/algolia-instant-search/instantsearch.min.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/algolia-instant-search/instantsearch.min.js" afterPath="$PROJECT_DIR$/assets/lib/algolia-instant-search/instantsearch.min.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/canvas-nest/canvas-nest.min.js" afterPath="$PROJECT_DIR$/assets/lib/canvas-nest/canvas-nest.min.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/canvas-ribbon/canvas-ribbon.js" afterPath="$PROJECT_DIR$/assets/lib/canvas-ribbon/canvas-ribbon.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fancybox/.bower.json" afterPath="$PROJECT_DIR$/assets/lib/fancybox/.bower.json" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fancybox/.gitattributes" afterPath="$PROJECT_DIR$/assets/lib/fancybox/.gitattributes" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fancybox/source/blank.gif" afterPath="$PROJECT_DIR$/assets/lib/fancybox/source/blank.gif" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fancybox/source/fancybox_loading.gif" afterPath="$PROJECT_DIR$/assets/lib/fancybox/source/fancybox_loading.gif" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fancybox/source/fancybox_loading@2x.gif" afterPath="$PROJECT_DIR$/assets/lib/fancybox/source/fancybox_loading@2x.gif" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fancybox/source/fancybox_overlay.png" afterPath="$PROJECT_DIR$/assets/lib/fancybox/source/fancybox_overlay.png" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fancybox/source/fancybox_sprite.png" afterPath="$PROJECT_DIR$/assets/lib/fancybox/source/fancybox_sprite.png" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fancybox/source/fancybox_sprite@2x.png" afterPath="$PROJECT_DIR$/assets/lib/fancybox/source/fancybox_sprite@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fancybox/source/helpers/fancybox_buttons.png" afterPath="$PROJECT_DIR$/assets/lib/fancybox/source/helpers/fancybox_buttons.png" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fancybox/source/helpers/jquery.fancybox-buttons.css" afterPath="$PROJECT_DIR$/assets/lib/fancybox/source/helpers/jquery.fancybox-buttons.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fancybox/source/helpers/jquery.fancybox-buttons.js" afterPath="$PROJECT_DIR$/assets/lib/fancybox/source/helpers/jquery.fancybox-buttons.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fancybox/source/helpers/jquery.fancybox-media.js" afterPath="$PROJECT_DIR$/assets/lib/fancybox/source/helpers/jquery.fancybox-media.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css" afterPath="$PROJECT_DIR$/assets/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js" afterPath="$PROJECT_DIR$/assets/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fancybox/source/jquery.fancybox.css" afterPath="$PROJECT_DIR$/assets/lib/fancybox/source/jquery.fancybox.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fancybox/source/jquery.fancybox.js" afterPath="$PROJECT_DIR$/assets/lib/fancybox/source/jquery.fancybox.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fancybox/source/jquery.fancybox.pack.js" afterPath="$PROJECT_DIR$/assets/lib/fancybox/source/jquery.fancybox.pack.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fastclick/.bower.json" afterPath="$PROJECT_DIR$/assets/lib/fastclick/.bower.json" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fastclick/LICENSE" afterPath="$PROJECT_DIR$/assets/lib/fastclick/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fastclick/README.md" afterPath="$PROJECT_DIR$/assets/lib/fastclick/README.md" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fastclick/bower.json" afterPath="$PROJECT_DIR$/assets/lib/fastclick/bower.json" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fastclick/lib/fastclick.js" afterPath="$PROJECT_DIR$/assets/lib/fastclick/lib/fastclick.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/fastclick/lib/fastclick.min.js" afterPath="$PROJECT_DIR$/assets/lib/fastclick/lib/fastclick.min.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/font-awesome/.bower.json" afterPath="$PROJECT_DIR$/assets/lib/font-awesome/.bower.json" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/font-awesome/.gitignore" afterPath="$PROJECT_DIR$/assets/lib/font-awesome/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/font-awesome/.npmignore" afterPath="$PROJECT_DIR$/assets/lib/font-awesome/.npmignore" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/font-awesome/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/assets/lib/font-awesome/HELP-US-OUT.txt" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/font-awesome/bower.json" afterPath="$PROJECT_DIR$/assets/lib/font-awesome/bower.json" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/assets/lib/font-awesome/css/font-awesome.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/font-awesome/css/font-awesome.css.map" afterPath="$PROJECT_DIR$/assets/lib/font-awesome/css/font-awesome.css.map" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/assets/lib/font-awesome/css/font-awesome.min.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/assets/lib/font-awesome/fonts/FontAwesome.otf" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/assets/lib/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/assets/lib/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/assets/lib/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/jquery/.bower.json" afterPath="$PROJECT_DIR$/assets/lib/jquery/.bower.json" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/jquery/index.js" afterPath="$PROJECT_DIR$/assets/lib/jquery/index.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/jquery_lazyload/.bower.json" afterPath="$PROJECT_DIR$/assets/lib/jquery_lazyload/.bower.json" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/jquery_lazyload/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/assets/lib/jquery_lazyload/CONTRIBUTING.md" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/jquery_lazyload/README.md" afterPath="$PROJECT_DIR$/assets/lib/jquery_lazyload/README.md" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/jquery_lazyload/bower.json" afterPath="$PROJECT_DIR$/assets/lib/jquery_lazyload/bower.json" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/jquery_lazyload/jquery.lazyload.js" afterPath="$PROJECT_DIR$/assets/lib/jquery_lazyload/jquery.lazyload.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/jquery_lazyload/jquery.scrollstop.js" afterPath="$PROJECT_DIR$/assets/lib/jquery_lazyload/jquery.scrollstop.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-barber-shop.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-barber-shop.min.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-big-counter.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-big-counter.min.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-bounce.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-bounce.min.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-center-atom.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-center-atom.min.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-center-circle.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-center-circle.min.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-center-radar.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-center-radar.min.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-center-simple.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-center-simple.min.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-corner-indicator.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-corner-indicator.min.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-fill-left.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-fill-left.min.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-flash.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-flash.min.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-loading-bar.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-loading-bar.min.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-mac-osx.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-mac-osx.min.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/pace/pace-theme-minimal.min.css" afterPath="$PROJECT_DIR$/assets/lib/pace/pace-theme-minimal.min.css" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/pace/pace.min.js" afterPath="$PROJECT_DIR$/assets/lib/pace/pace.min.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/three/canvas_lines.min.js" afterPath="$PROJECT_DIR$/assets/lib/three/canvas_lines.min.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/three/canvas_sphere.min.js" afterPath="$PROJECT_DIR$/assets/lib/three/canvas_sphere.min.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/three/three-waves.min.js" afterPath="$PROJECT_DIR$/assets/lib/three/three-waves.min.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/three/three.min.js" afterPath="$PROJECT_DIR$/assets/lib/three/three.min.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/ua-parser-js/dist/ua-parser.min.js" afterPath="$PROJECT_DIR$/assets/lib/ua-parser-js/dist/ua-parser.min.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/ua-parser-js/dist/ua-parser.pack.js" afterPath="$PROJECT_DIR$/assets/lib/ua-parser-js/dist/ua-parser.pack.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/velocity/.bower.json" afterPath="$PROJECT_DIR$/assets/lib/velocity/.bower.json" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/velocity/bower.json" afterPath="$PROJECT_DIR$/assets/lib/velocity/bower.json" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/velocity/velocity.js" afterPath="$PROJECT_DIR$/assets/lib/velocity/velocity.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/velocity/velocity.min.js" afterPath="$PROJECT_DIR$/assets/lib/velocity/velocity.min.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/velocity/velocity.ui.js" afterPath="$PROJECT_DIR$/assets/lib/velocity/velocity.ui.js" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/velocity/velocity.ui.min.js" afterPath="$PROJECT_DIR$/assets/lib/velocity/velocity.ui.min.js" />
+      <change beforePath="$PROJECT_DIR$/blog.iml" afterPath="$PROJECT_DIR$/blog.iml" />
+      <change beforePath="$PROJECT_DIR$/categories/index.html" afterPath="$PROJECT_DIR$/categories/index.html" />
+      <change beforePath="$PROJECT_DIR$/category/index.html" afterPath="$PROJECT_DIR$/category/index.html" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/search.xml" afterPath="$PROJECT_DIR$/search.xml" />
+      <change beforePath="$PROJECT_DIR$/tag/index.html" afterPath="$PROJECT_DIR$/tag/index.html" />
+      <change beforePath="$PROJECT_DIR$/tags/index.html" afterPath="$PROJECT_DIR$/tags/index.html" />
+      <change beforePath="$PROJECT_DIR$/tutorial/2013-12-24-categories.md" afterPath="$PROJECT_DIR$/tutorial/2013-12-24-categories.md" />
+      <change beforePath="$PROJECT_DIR$/tutorial/2013-12-24-elements.md" afterPath="$PROJECT_DIR$/tutorial/2013-12-24-elements.md" />
+      <change beforePath="$PROJECT_DIR$/tutorial/2013-12-24-link-post.md" afterPath="$PROJECT_DIR$/tutorial/2013-12-24-link-post.md" />
+      <change beforePath="$PROJECT_DIR$/tutorial/2013-12-24-long-title.md" afterPath="$PROJECT_DIR$/tutorial/2013-12-24-long-title.md" />
+      <change beforePath="$PROJECT_DIR$/tutorial/2013-12-24-tags.md" afterPath="$PROJECT_DIR$/tutorial/2013-12-24-tags.md" />
+      <change beforePath="$PROJECT_DIR$/tutorial/2013-12-24-中文測試.md" afterPath="$PROJECT_DIR$/tutorial/2013-12-24-中文測試.md" />
+      <change beforePath="$PROJECT_DIR$/tutorial/2013-12-24-日本語テスト.md" afterPath="$PROJECT_DIR$/tutorial/2013-12-24-日本語テスト.md" />
+      <change beforePath="$PROJECT_DIR$/tutorial/2013-12-25-block.md" afterPath="$PROJECT_DIR$/tutorial/2013-12-25-block.md" />
+      <change beforePath="$PROJECT_DIR$/tutorial/2013-12-25-excerpts.md" afterPath="$PROJECT_DIR$/tutorial/2013-12-25-excerpts.md" />
+      <change beforePath="$PROJECT_DIR$/tutorial/2013-12-26-images.md" afterPath="$PROJECT_DIR$/tutorial/2013-12-26-images.md" />
+      <change beforePath="$PROJECT_DIR$/tutorial/2014-02-16-Mathjax-with-jekyll.md" afterPath="$PROJECT_DIR$/tutorial/2014-02-16-Mathjax-with-jekyll.md" />
+      <change beforePath="$PROJECT_DIR$/tutorial/2014-11-18-gallery-post.md" afterPath="$PROJECT_DIR$/tutorial/2014-11-18-gallery-post.md" />
+      <change beforePath="$PROJECT_DIR$/tutorial/2015-09-19-emoji-test.md" afterPath="$PROJECT_DIR$/tutorial/2015-09-19-emoji-test.md" />
+      <change beforePath="$PROJECT_DIR$/tutorial/2017-07-19-highlight-test.md" afterPath="$PROJECT_DIR$/tutorial/2017-07-19-highlight-test.md" />
+      <change beforePath="$PROJECT_DIR$/tutorial/2017-07-20-next-tutorial.md" afterPath="$PROJECT_DIR$/tutorial/2017-07-20-next-tutorial.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,161 +396,26 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-12-08-Android动态控制log输出.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-12-08-Android动态控制log输出.md">
+      <file leaf-file-name="2017-03-14-Ubuntu Server 16.04 配置nginx + php7.0 + mysql + wordpress.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-03-14-Ubuntu Server 16.04 配置nginx + php7.0 + mysql + wordpress.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="260">
-                <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-                <folding>
-                  <marker date="1512721667903" expanded="true" signature="270:464" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="293:307" ph="{" />
-                  <marker date="1512721667903" expanded="true" signature="293:366" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="356:366" ph="}" />
-                  <marker date="1512721667903" expanded="true" signature="382:396" ph="{" />
-                  <marker date="1512721667903" expanded="true" signature="382:458" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="444:458" ph="}" />
-                  <marker date="1512721667903" expanded="true" signature="1139:1194" ph="/**...*/" />
-                  <marker date="1512721667903" expanded="true" signature="1218:3220" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="1589:1692" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="1646:1686" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="1743:1844" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="1798:1838" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="1895:1995" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="1949:1989" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="2046:2146" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="2100:2140" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="2197:2298" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="2252:2292" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="2370:2484" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="2427:2478" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="2556:2668" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="2611:2662" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="2740:2851" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="2794:2845" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="2923:3034" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="2977:3028" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="3106:3218" ph="{...}" />
-                  <marker date="1512721667903" expanded="true" signature="3161:3212" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-12-11-将签名等敏感信息放入*.properties文件中.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-12-11-将签名等敏感信息放入*.properties文件中.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="494">
-                <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-                <folding>
-                  <marker date="1512955057145" expanded="true" signature="282:840" ph="{...}" />
-                  <marker date="1512955057145" expanded="true" signature="299:462" ph="{...}" />
-                  <marker date="1512955057145" expanded="true" signature="480:645" ph="{...}" />
-                  <marker date="1512955057145" expanded="true" signature="661:830" ph="{...}" />
-                  <marker date="1512955057145" expanded="true" signature="900:1080" ph="{...}" />
-                  <marker date="1512955057145" expanded="true" signature="923:939" ph="{" />
-                  <marker date="1512955057145" expanded="true" signature="923:987" ph="{...}" />
-                  <marker date="1512955057145" expanded="true" signature="975:987" ph="}" />
-                  <marker date="1512955057145" expanded="true" signature="1007:1023" ph="{" />
-                  <marker date="1512955057145" expanded="true" signature="1007:1069" ph="{...}" />
-                  <marker date="1512955057145" expanded="true" signature="1057:1069" ph="}" />
-                  <marker date="1512955057145" expanded="true" signature="1401:2392" ph="{...}" />
-                  <marker date="1512955057145" expanded="true" signature="1635:1906" ph="{...}" />
-                  <marker date="1512955057145" expanded="true" signature="1924:2147" ph="{...}" />
-                  <marker date="1512955057145" expanded="true" signature="2163:2386" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-08-06-You must not call setTag() on a view Glide is targeting.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-08-06-You must not call setTag() on a view Glide is targeting.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="130">
-                <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-07-25-使用Glide实现高斯模糊.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-07-25-使用Glide实现高斯模糊.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="910">
-                <caret line="35" column="15" lean-forward="false" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-07-25-ubuntu更新源出错，无法认证来自该源的数据，所以使用它会带来潜在风险。.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-07-25-ubuntu更新源出错，无法认证来自该源的数据，所以使用它会带来潜在风险。.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="104">
-                <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-07-09-解决Recycler和NestedScrollView滑动冲突.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-07-09-解决Recycler和NestedScrollView滑动冲突.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="182">
-                <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-12-08-Android的加密算法（PHP服务器）.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-12-08-Android的加密算法（PHP服务器）.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="104">
-                <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-                <folding>
-                  <marker date="1512703200203" expanded="true" signature="166:217" ph="/**...*/" />
-                  <marker date="1512703200203" expanded="true" signature="251:281" ph="/**...*/" />
-                  <marker date="1512703200203" expanded="true" signature="324:1133" ph="{...}" />
-                  <marker date="1512703200203" expanded="true" signature="1139:1207" ph="/**...*/" />
-                  <marker date="1512703200203" expanded="true" signature="1252:1561" ph="{...}" />
-                  <marker date="1512703200203" expanded="true" signature="1567:1602" ph="/**...*/" />
-                  <marker date="1512703200203" expanded="true" signature="1644:2329" ph="{...}" />
-                  <marker date="1512703200203" expanded="true" signature="2336:2454" ph="/**...*/" />
-                  <marker date="1512703200203" expanded="true" signature="2535:4468" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-10-28-setOnPageChangeListener 过时了怎么办.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-10-28-setOnPageChangeListener 过时了怎么办.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="168">
+                <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -181,6 +429,21 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
                 <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding>
+                  <marker date="1512624200000" expanded="true" signature="596:1059" ph="/**...*/" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-04-05-Can't create handler inside thread that has not called Looper.prepare().md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-04-05-Can't create handler inside thread that has not called Looper.prepare().md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="360">
+                <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -192,8 +455,83 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-07-09-Unable to inflate view tag without class attribute.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="104">
+              <first_editor relative-caret-position="96">
                 <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="9" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-02-16-在Ubuntu下驱动bcm43430a0无线网卡.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-02-16-在Ubuntu下驱动bcm43430a0无线网卡.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="744">
+                <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-01-12-把爱写进程序.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-01-12-把爱写进程序.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-03-26-当你老了.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-03-26-当你老了.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="312">
+                <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-09-11-解决无法使用HttpClient的问题.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-09-11-解决无法使用HttpClient的问题.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-01-12-安卓中各种单位说明.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-01-12-安卓中各种单位说明.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -225,7 +563,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_posts/2016-03-30-我中有你自然你中有我.md" />
         <option value="$PROJECT_DIR$/_posts/2016-03-26-当你老了.md" />
         <option value="$PROJECT_DIR$/_posts/2016-03-31-给我一壶酒，慰我相思浓。.md" />
@@ -238,7 +575,6 @@
         <option value="$PROJECT_DIR$/_posts/2017-01-12-把爱写进程序.md" />
         <option value="$PROJECT_DIR$/_posts/2016-04-02-爱你在相思中等待.md" />
         <option value="$PROJECT_DIR$/_posts/2017-02-13-Android Studio Error 前言中不允许有内容。.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-03-14-Ubuntu Server 16.04 配置nginx + php7.0 + mysql + wordpress.md" />
         <option value="$PROJECT_DIR$/_posts/2017-07-09-解决Recycler和NestedScrollView滑动冲突.md" />
         <option value="$PROJECT_DIR$/_posts/2017-07-25-ubuntu更新源出错，无法认证来自该源的数据，所以使用它会带来潜在风险。.md" />
         <option value="$PROJECT_DIR$/_posts/2019-10-02-实现Splash快速响应.md" />
@@ -263,6 +599,9 @@
         <option value="$PROJECT_DIR$/_posts/2017-12-08-Android的加密算法（PHP服务器）.md" />
         <option value="$PROJECT_DIR$/_posts/2017-12-08-Android动态控制log输出.md" />
         <option value="$PROJECT_DIR$/_posts/2017-12-11-将签名等敏感信息放入*.properties文件中.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-03-14-Ubuntu Server 16.04 配置nginx + php7.0 + mysql + wordpress.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-02-16-在Ubuntu下驱动bcm43430a0无线网卡.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -272,10 +611,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="width" value="1400" />
-    <option name="height" value="1150" />
+    <option name="x" value="-13" />
+    <option name="y" value="24" />
+    <option name="width" value="1920" />
+    <option name="height" value="975" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -309,6 +655,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -316,29 +665,22 @@
               <item name="nicolite.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="nicolite.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="nicolite.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nicolite.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -468,6 +810,13 @@
       <workItem from="1512719210235" duration="4477000" />
       <workItem from="1512887314512" duration="2258000" />
       <workItem from="1512953300356" duration="1757000" />
+      <workItem from="1514889957067" duration="188000" />
+      <workItem from="1514957378954" duration="1505000" />
+      <workItem from="1514973956624" duration="5000" />
+      <workItem from="1515064655228" duration="11000" />
+      <workItem from="1518771504633" duration="129000" />
+      <workItem from="1518773532118" duration="1681000" />
+      <workItem from="1518775372809" duration="143000" />
     </task>
     <task id="LOCAL-00001" summary="add favicon.ico">
       <created>1506313593707</created>
@@ -672,11 +1021,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512721730420</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="update">
+      <created>1514885226256</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1514885226257</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37248000" />
+    <option name="totallyTimeSpent" value="41375000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -688,8 +1044,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1920" height="975" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896176" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -697,24 +1052,25 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896176" sideWeight="0.50215983" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896176" sideWeight="0.49784017" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896176" sideWeight="0.49784017" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37689614" sideWeight="0.49784017" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31837606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1996805" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896176" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -806,115 +1162,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-17-No enclosing instance of type xxx is accessible.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1377">
-            <caret line="72" column="17" lean-forward="false" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-10-24-安卓List按时间排序.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-369">
-            <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-01-12-安卓中各种单位说明.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="468">
-            <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-01-12-把爱写进程序.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="72">
-            <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-02-13-Android Studio Error 前言中不允许有内容。.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-14-Ubuntu Server 16.04 配置nginx + php7.0 + mysql + wordpress.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2448">
-            <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3265">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/src/affix.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/src/algolia-search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/src/schemes/pisces.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/lib/algolia-instant-search/instantsearch.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/lib/canvas-nest/canvas-nest.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/lib/font-awesome/css/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="3" column="271" lean-forward="false" selection-start-line="3" selection-start-column="271" selection-end-line="3" selection-end-column="271" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/lib/canvas-ribbon/canvas-ribbon.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -954,26 +1201,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1296">
           <caret line="36" column="68" lean-forward="false" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-12-Java中子类到父类强制类型转换出错解决方案.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="182">
-            <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-04-02-爱你在相思中等待.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="52">
-            <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1041,51 +1268,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-03-30-我中有你自然你中有我.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="104">
-            <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-03-15-You need to use a Theme.AppCompat theme (or descendant) with this activity.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="182">
             <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-05-Can't create handler inside thread that has not called Looper.prepare().md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-04-02-如果爱情不如此悲伤.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="416">
-            <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-03-31-给我一壶酒，慰我相思浓。.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="442">
-            <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
@@ -1101,75 +1288,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-03-26-当你老了.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="338">
-            <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-10-System.arraycopy.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="546">
-            <caret line="21" column="108" lean-forward="true" selection-start-line="21" selection-start-column="108" selection-end-line="21" selection-end-column="108" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-22-ActivityTest does not specify a android.test.InstrumentationTestRunner instrumentation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="182">
-            <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-10-28-setOnPageChangeListener 过时了怎么办.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-17-Android按返回键应用后台运行不退出.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-07-09-Unable to inflate view tag without class attribute.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="104">
-            <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-08-06-You must not call setTag() on a view Glide is targeting.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="130">
-            <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1180,7 +1303,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="910">
             <caret line="35" column="15" lean-forward="false" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1191,7 +1313,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="104">
             <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1202,7 +1323,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="182">
             <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1223,103 +1343,277 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="260">
             <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-            <folding>
-              <marker date="1512721667903" expanded="true" signature="270:464" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="293:307" ph="{" />
-              <marker date="1512721667903" expanded="true" signature="293:366" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="356:366" ph="}" />
-              <marker date="1512721667903" expanded="true" signature="382:396" ph="{" />
-              <marker date="1512721667903" expanded="true" signature="382:458" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="444:458" ph="}" />
-              <marker date="1512721667903" expanded="true" signature="1139:1194" ph="/**...*/" />
-              <marker date="1512721667903" expanded="true" signature="1218:3220" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="1589:1692" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="1646:1686" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="1743:1844" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="1798:1838" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="1895:1995" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="1949:1989" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="2046:2146" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="2100:2140" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="2197:2298" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="2252:2292" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="2370:2484" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="2427:2478" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="2556:2668" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="2611:2662" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="2740:2851" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="2794:2845" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="2923:3034" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="2977:3028" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="3106:3218" ph="{...}" />
-              <marker date="1512721667903" expanded="true" signature="3161:3212" ph="{...}" />
-            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-11-将签名等敏感信息放入*.properties文件中.md" />
+    <entry file="file://$PROJECT_DIR$/about/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="144">
+            <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archives/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-03-31-给我一壶酒，慰我相思浓。.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="408">
+            <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-07-12-Java中子类到父类强制类型转换出错解决方案.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="168">
+            <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-07-22-ActivityTest does not specify a android.test.InstrumentationTestRunner instrumentation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="168">
+            <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-04-02-如果爱情不如此悲伤.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="384">
+            <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-08-10-Android Studio中Button等控件的Text中字符串默认大写的解决方法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-07-10-System.arraycopy.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="312">
+            <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-08-06-You must not call setTag() on a view Glide is targeting.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-24-Dex cannot parse version 52 byte code.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-12-08-Android的加密算法（PHP服务器）.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="96">
+            <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding>
-            <marker date="1512703200203" expanded="true" signature="166:217" ph="/**...*/" />
-            <marker date="1512703200203" expanded="true" signature="251:281" ph="/**...*/" />
-            <marker date="1512703200203" expanded="true" signature="324:1133" ph="{...}" />
-            <marker date="1512703200203" expanded="true" signature="1139:1207" ph="/**...*/" />
-            <marker date="1512703200203" expanded="true" signature="1252:1561" ph="{...}" />
-            <marker date="1512703200203" expanded="true" signature="1567:1602" ph="/**...*/" />
-            <marker date="1512703200203" expanded="true" signature="1644:2329" ph="{...}" />
-            <marker date="1512703200203" expanded="true" signature="2336:2454" ph="/**...*/" />
-            <marker date="1512703200203" expanded="true" signature="2535:4468" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="104">
-            <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-            <folding>
-              <marker date="1512703200203" expanded="true" signature="166:217" ph="/**...*/" />
-              <marker date="1512703200203" expanded="true" signature="251:281" ph="/**...*/" />
-              <marker date="1512703200203" expanded="true" signature="324:1133" ph="{...}" />
-              <marker date="1512703200203" expanded="true" signature="1139:1207" ph="/**...*/" />
-              <marker date="1512703200203" expanded="true" signature="1252:1561" ph="{...}" />
-              <marker date="1512703200203" expanded="true" signature="1567:1602" ph="/**...*/" />
-              <marker date="1512703200203" expanded="true" signature="1644:2329" ph="{...}" />
-              <marker date="1512703200203" expanded="true" signature="2336:2454" ph="/**...*/" />
-              <marker date="1512703200203" expanded="true" signature="2535:4468" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-12-11-将签名等敏感信息放入*.properties文件中.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="494">
-            <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <first_editor relative-caret-position="96">
+            <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-07-17-No enclosing instance of type xxx is accessible.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-04-02-爱你在相思中等待.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="48">
+            <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-03-30-我中有你自然你中有我.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="96">
+            <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-03-26-当你老了.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="312">
+            <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-09-11-解决无法使用HttpClient的问题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-01-12-安卓中各种单位说明.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-01-12-把爱写进程序.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-14-Ubuntu Server 16.04 配置nginx + php7.0 + mysql + wordpress.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="168">
+            <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-17-Android按返回键应用后台运行不退出.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
-              <marker date="1512955057145" expanded="true" signature="282:840" ph="{...}" />
-              <marker date="1512955057145" expanded="true" signature="299:462" ph="{...}" />
-              <marker date="1512955057145" expanded="true" signature="480:645" ph="{...}" />
-              <marker date="1512955057145" expanded="true" signature="661:830" ph="{...}" />
-              <marker date="1512955057145" expanded="true" signature="900:1080" ph="{...}" />
-              <marker date="1512955057145" expanded="true" signature="923:939" ph="{" />
-              <marker date="1512955057145" expanded="true" signature="923:987" ph="{...}" />
-              <marker date="1512955057145" expanded="true" signature="975:987" ph="}" />
-              <marker date="1512955057145" expanded="true" signature="1007:1023" ph="{" />
-              <marker date="1512955057145" expanded="true" signature="1007:1069" ph="{...}" />
-              <marker date="1512955057145" expanded="true" signature="1057:1069" ph="}" />
-              <marker date="1512955057145" expanded="true" signature="1401:2392" ph="{...}" />
-              <marker date="1512955057145" expanded="true" signature="1635:1906" ph="{...}" />
-              <marker date="1512955057145" expanded="true" signature="1924:2147" ph="{...}" />
-              <marker date="1512955057145" expanded="true" signature="2163:2386" ph="{...}" />
+              <marker date="1512624200000" expanded="true" signature="596:1059" ph="/**...*/" />
             </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-09-Unable to inflate view tag without class attribute.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="96">
+            <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-02-16-在Ubuntu下驱动bcm43430a0无线网卡.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="744">
+            <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-05-Can't create handler inside thread that has not called Looper.prepare().md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
