@@ -4,6 +4,8 @@ date: 2017-08-11 10:40:23
 categories:
 - Android
 tags: 
+- Android
+- Retrofit
 ---
 今天使用Retrofit使用Post请求获取Token时遇到了下面的错误：
 ```

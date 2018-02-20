@@ -4,6 +4,8 @@ date: 2017-08-06 02:05:32
 categories:
 - Android
 tags: 
+- Android
+- glide
 ---
 **参考**  
 [Glide加载图片报错You must not call setTag() on a view Glide is targeting](http://www.cnblogs.com/zzq-include/p/6135312.html)  
