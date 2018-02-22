@@ -13,7 +13,7 @@ tags:
 
 ```java
 popuWindow.setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_ADJUST_RESIZE | WindowManager.LayoutParams.SOFT_INPUT_STATE_HIDDEN);
-popummitWindow.setInputMethodMode(PopupWindow.INPUT_METHOD_NEEDED);
+popuWindow.setInputMethodMode(PopupWindow.INPUT_METHOD_NEEDED);
 ```
 
 
