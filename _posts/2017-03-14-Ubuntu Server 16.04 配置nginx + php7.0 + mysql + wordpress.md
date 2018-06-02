@@ -5,25 +5,28 @@ categories:
 - Linux
 tags: 
 ---
-#### 安装nginx（采用自己编译安装）
-##### 安装gcc g++编译依赖库
+
+#### 安装gcc g++编译依赖库  
 <pre class="prettyprint linenums">sudo apt-get install build-essential
 sudo apt-get install libtool
 </pre>
-##### 安装 pcre依赖库
+
+#### 安装 pcre依赖库  
 <pre class="prettyprint linenums">sudo apt-get update
 sudo apt-get install libpcre3 libpcre3-dev
 </pre>
-##### 安装 ssl依赖库
+
+#### 安装 ssl依赖库  
 <pre class="prettyprint linenums">
 sudo apt-get install openssl
 </pre>
-##### 安装 zlib依赖库
+
+#### 安装 zlib依赖库  
 <pre class="prettyprint linenums">
  sudo apt-get install zlib1g-dev
 </pre>
-##### 编译安装nginx
 
+#### 编译安装nginx
 参考<a href="http://www.cnblogs.com/piscesLoveCc/p/5794926.html">Ubuntu16.04安装nginx</a>
 <pre class="prettyprint linenums">#下载nginx，这里使用最新稳定版，该版本支持安全狗：
 wget http://wget http://nginx.org/download/nginx-1.10.3.tar.gz
@@ -46,7 +49,7 @@ sudo /usr/local/nginx/sbin/nginx -c /usr/local/nginx/conf/nginx.conf
 ps -ef|grep nginx
 </pre>
 
-##### nginx常用命令</h3>
+#### nginx常用命令</h3>
 <pre class="prettyprint linenums">#启动nginx
 sudo /usr/local/nginx/sbin/nginx
 #t停止nginx
@@ -77,7 +80,8 @@ sudo apt-get install php7.0-mbstring
 sudo apt-get install mysql-server mysql-client
 安装的过程会要你输入数据库root用户密码,千万要记住，不然又要一大堆麻烦了
 </pre>
-##### mysql基本命令
+
+#### mysql基本命令
 更多请百度
 <pre class="prettyprint linenums" >
 #登录到mysql
@@ -98,7 +102,6 @@ drop database 数据库名
 </pre>
 
 #### 配置nginx</h2>
-
 <pre class="prettyprint linenums" >
 cd /usr/local/nginx/conf/
 sudo vim nginx.conf
@@ -251,7 +254,7 @@ listen.owner = nobody  #这里修改为这样
 listen.group = nobody
 </pre>
 
-<h2>安装wordpress</h2>
+#### 安装wordpress
 <pre class="prettyprint linenums" >
 #下载最新版
 wget https://cn.wordpress.org/wordpress-4.7.4-zh_CN.zip
