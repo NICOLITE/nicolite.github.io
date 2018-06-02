@@ -5,24 +5,24 @@ categories:
 - Linux
 tags: 
 ---
-<h2>安装nginx（采用自己编译安装）</h2>
-<h3>安装gcc g++编译依赖库</h3>
+#### 安装nginx（采用自己编译安装）
+##### 安装gcc g++编译依赖库
 <pre class="prettyprint linenums">sudo apt-get install build-essential
 sudo apt-get install libtool
 </pre>
-<h3>安装 pcre依赖库</h3>
+##### 安装 pcre依赖库
 <pre class="prettyprint linenums">sudo apt-get update
 sudo apt-get install libpcre3 libpcre3-dev
 </pre>
-<h3>安装 ssl依赖库</h3>
+##### 安装 ssl依赖库
 <pre class="prettyprint linenums">
 sudo apt-get install openssl
 </pre>
-<h3>安装 zlib依赖库</h3>
+##### 安装 zlib依赖库
 <pre class="prettyprint linenums">
  sudo apt-get install zlib1g-dev
 </pre>
-<h3>编译安装nginx</h3>
+##### 编译安装nginx
 
 参考<a href="http://www.cnblogs.com/piscesLoveCc/p/5794926.html">Ubuntu16.04安装nginx</a>
 <pre class="prettyprint linenums">#下载nginx，这里使用最新稳定版，该版本支持安全狗：
@@ -46,7 +46,7 @@ sudo /usr/local/nginx/sbin/nginx -c /usr/local/nginx/conf/nginx.conf
 ps -ef|grep nginx
 </pre>
 
-<h3>nginx常用命令</h3>
+##### nginx常用命令</h3>
 <pre class="prettyprint linenums">#启动nginx
 sudo /usr/local/nginx/sbin/nginx
 #t停止nginx
@@ -61,7 +61,7 @@ sudo /usr/local/nginx/sbin/nginx -s stop 或者 sudo /usr/local/nginx/sbin/nginx
  sudo /usr/local/nginx/sbin/nginx -v
 </pre>
 
-<h2>安装php</h2>
+#### 安装php
 由于php不像nginx那样容易编译成功，所以采用apt安装，你也可以自己编译安装，ubuntu16.04仓库中的php更新到7.0版本了
 <pre class="prettyprint linenums" >
 #更新软件源
@@ -72,12 +72,12 @@ sudo apt-get install php
 sudo apt-get install php7.0-mbstring
 </pre>
 
-<h2>安装mysql</h2>
+#### 安装mysql
 <pre class="prettyprint linenums" >
 sudo apt-get install mysql-server mysql-client
 安装的过程会要你输入数据库root用户密码,千万要记住，不然又要一大堆麻烦了
 </pre>
-<h3>mysql基本命令</h3>
+##### mysql基本命令
 更多请百度
 <pre class="prettyprint linenums" >
 #登录到mysql
@@ -97,7 +97,7 @@ create database 数据库名 default set utf8 aollate utf8_general_ci;
 drop database 数据库名
 </pre>
 
-<h2>配置nginx</h2>
+#### 配置nginx</h2>
 
 <pre class="prettyprint linenums" >
 cd /usr/local/nginx/conf/
@@ -235,7 +235,7 @@ http {
 }
 </pre>
 
-<h2>配置php7.0</h2>
+#### 配置php7.0
 像上面那样配置完是没有权限正常访问php7.0-fpm的，还需要指定用户和用户组
 <pre class="prettyprint linenums" >
 cd /etc/php/7.0/fpm/pool.d
@@ -265,5 +265,5 @@ cd /usr/local/nginx/html
 sudo chown -R www-data:www-data *
 </pre>
 
-<h2>配置wordpress</h2>
+#### 配置wordpress
 在浏览器上输入你服务器绑定的域名按步骤配置就可以了
