@@ -49,7 +49,7 @@ sudo /usr/local/nginx/sbin/nginx -c /usr/local/nginx/conf/nginx.conf
 ps -ef|grep nginx
 </pre>
 
-#### nginx常用命令</h3>
+#### nginx常用命令
 <pre class="prettyprint linenums">#启动nginx
 sudo /usr/local/nginx/sbin/nginx
 #t停止nginx
@@ -101,7 +101,7 @@ create database 数据库名 default set utf8 aollate utf8_general_ci;
 drop database 数据库名
 </pre>
 
-#### 配置nginx</h2>
+#### 配置nginx
 <pre class="prettyprint linenums" >
 cd /usr/local/nginx/conf/
 sudo vim nginx.conf
