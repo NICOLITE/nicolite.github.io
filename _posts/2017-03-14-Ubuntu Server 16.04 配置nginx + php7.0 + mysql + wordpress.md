@@ -39,29 +39,33 @@ cd nginx-1.10.3
 #编辑nginx：
 make
 注意：这里可能会报错，提示“pcre.h No such file or directory”,具体详见：http://stackoverflow.com/questions/22555561/error-building-fatal-error-pcre-h-no-such-file-or-directory
-需要安装 libpcre3-dev,命令为：sudo apt-get install libpcre3-dev
+需要安装 libpcre3-dev,命令为：sudo apt-get install libpcre3-dev  
+提升“error: SSL modules require the OpenSSL library.”  
+需要安装  libssl-dev, 命令为：sudo apt-get install libssl-dev
 #安装nginx：
 sudo make install
 #启动nginx：
 sudo /usr/local/nginx/sbin/nginx -c /usr/local/nginx/conf/nginx.conf
 注意：-c 指定配置文件的路径，不加的话，nginx会自动加载默认路径的配置文件，可以通过 -h查看帮助命令。
 #查看nginx进程：
-ps -ef|grep nginx
+ps -ef|grep nginx  
+#建立软链，这样就可以直接使用nginx，不用输入完整路径  
+ln -sf /usr/local/nginx/sbin/nginx /usr/sbin/nginx
 </pre>
 
 #### nginx常用命令
 <pre class="prettyprint linenums">#启动nginx
-sudo /usr/local/nginx/sbin/nginx
+sudo nginx
 #t停止nginx
-sudo /usr/local/nginx/sbin/nginx -s stop 或者 sudo /usr/local/nginx/sbin/nginx -s quit
+sudo nginx -s stop 或者 sudo /usr/local/nginx/sbin/nginx -s quit
 #重新加载配置
- sudo /usr/local/nginx/sbin/nginx -s reload
+ sudo nginx -s reload
 #指定配置文件
- sudo /usr/local/nginx/sbin/nginx -c /usr/local/nginx/conf/nginx.conf
+ sudo nginx -c /usr/local/nginx/conf/nginx.conf
 #检查配置文件语法是否正确
- sudo /usr/local/nginx/sbin/nginx -t
+ sudo nginx -t
 #查看nginx版本
- sudo /usr/local/nginx/sbin/nginx -v
+ sudo nginx -v
 </pre>
 
 #### 安装php
