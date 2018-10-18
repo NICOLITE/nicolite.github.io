@@ -1,5 +1,5 @@
 ---
-title: 解决Recycler和NestedScrollView滑动冲突
+title: 解决RecyclerView和NestedScrollView滑动冲突
 date: 2017-07-09 07:28:33
 categories:
 - Android
