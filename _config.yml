@@ -20,16 +20,16 @@ permalink: pretty
 
 # Pagination
 paginate: 10
+  #paginate_path: "/page:num/"
+  #archive:
+  #paginate: 10
+  #paginate_path: "/page:num/"
+  #category:
+  #paginate: 10
+  #paginate_path: "/page:num/"
+  #tag:
+  #paginate: 10
 #paginate_path: "/page:num/"
-#archive:
-  #paginate: 10
-  #paginate_path: "/page:num/"
-#category:
-  #paginate: 10
-  #paginate_path: "/page:num/"
-#tag:
-  #paginate: 10
-  #paginate_path: "/page:num/"
 
 # Handling Reading
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md"]
@@ -45,18 +45,18 @@ highlighter: rouge
 ## 'redcarpet' is unsupported on GitHub Pages now.
 markdown: kramdown
 kramdown:
-    input: GFM
+  input: GFM
 
 # Default Attributes
 ## Docs: https://jekyllrb.com/docs/configuration/#front-matter-defaults
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true
+-
+  scope:
+    path: ""
+    type: "posts"
+  values:
+    layout: "post"
+    comments: true
 
 # Atom feed
 feed:
@@ -67,8 +67,8 @@ feed:
 plugins:
 # jemoji conficts with toc in some no-ascii post
 # - jemoji
- - jekyll-sitemap
- - jekyll-feed
+- jekyll-sitemap
+- jekyll-feed
 
 # ---------------------------------------------------------------
 # Site Information Settings
@@ -204,17 +204,16 @@ font:
 
 
 
-# ---------------------------------------------------------------
-# Sidebar Settings
-# ---------------------------------------------------------------
+  # ---------------------------------------------------------------
+  # Sidebar Settings
+  # ---------------------------------------------------------------
 
 
-# Social Links
-# Key is the link label showing to end users.
-# Value is the target link (E.g. GitHub: https://github.com/iissnan)
-social:
+  # Social Links
+  # Key is the link label showing to end users.
+  # Value is the target link (E.g. GitHub: https://github.com/iissnan)
+  #social:
   #LinkLabel: Link
-  GitHub: https://github.com/nicolite
 
 
 # Social Links Icons
@@ -280,11 +279,11 @@ sidebar:
   scrollpercent: false
 
 
-# Blog rolls
-#links_title: Links
-#links_layout: block
-#links_layout: inline
-#links:
+  # Blog rolls
+  #links_title: Links
+  #links_layout: block
+  #links_layout: inline
+  #links:
   #Title: http://example.com/
 
 
@@ -321,8 +320,8 @@ post_wordcount:
   min2read: false
   separated_meta: true
 
-# Wechat Subscriber
-#wechat_subscriber:
+  # Wechat Subscriber
+  #wechat_subscriber:
   #enabled: true
   #qcode: /path/to/your/wechatqcode ex. /uploads/wechat-qcode.jpg
   #description: ex. subscribe to my blog by scanning my public wechat account
@@ -512,7 +511,7 @@ busuanzi_count:
 
 
 # Tencent analytics ID
- tencent_analytics: 66100213
+# tencent_analytics:
 
 # Tencent MTA ID
 # tencent_mta:
