@@ -410,7 +410,7 @@ changyan:
 # Available value:
 #    button | slide
 # Warning: Baidu Share does not support https.
-#baidushare:
+baidushare: true
 ##  type: button
 
 # Share
@@ -550,7 +550,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
