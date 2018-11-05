@@ -12,10 +12,10 @@ tags:
 #### 首先在virtualbox中安装好ubuntu server
 
 #### 然后打开virtualbox的设置，找到这里，连接方式选网络地址转换
-![](https://raw.githubusercontent.com/nicolite/nicolite.github.io/master/images/20180526-121930-1.png)  
+![](/images/20180526-121930-1.png)  
  
 #### 点击上图的端口设置，图中是我已经设置好的配置
-![](https://raw.githubusercontent.com/nicolite/nicolite.github.io/master/images/20180526-121930-2.png)  
+![](/images/20180526-121930-2.png)  
 
 #### 通过ifconfig命令可以知道子系统IP地址，对应上图中的子系统IP
-![](https://raw.githubusercontent.com/nicolite/nicolite.github.io/master/images/20180526-121930-3.png)
+![](/images/20180526-121930-3.png)

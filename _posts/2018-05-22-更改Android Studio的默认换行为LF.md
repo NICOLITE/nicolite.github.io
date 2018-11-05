@@ -13,6 +13,6 @@ tags:
 LF是Linux上的换行符, CR是Mac上的，CRLF是Windows上的  
 
 #### 更改Android Studio创建文件的默认换行符  
-![](https://raw.githubusercontent.com/nicolite/nicolite.github.io/master/images/20180522-182830-1.png)  
+![](/images/20180522-182830-1.png)  
 
-![](https://raw.githubusercontent.com/nicolite/nicolite.github.io/master/images/20180522-182830-2.png)
+![](/images/20180522-182830-2.png)
