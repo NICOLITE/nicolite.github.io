@@ -3,7 +3,12 @@ title: Ubuntu Server 16.04 配置nginx + php7.0 + mysql + wordpress
 date: 2017-03-14  09:11:34
 categories:
 - Linux
+- Ubuntu
 tags: 
+- Linux
+- Ubuntu
+- nginx
+- wordpress
 ---
 
 #### 安装gcc g++编译依赖库  

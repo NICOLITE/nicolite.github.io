@@ -3,6 +3,8 @@ title: 从外部连接VirtualBox中的ubuntu server
 date: 2018-05-26 12:19:30
 categories:
 - Linux
+- Ubuntu
+
 tags:
 - Linux
 - Ubuntu
