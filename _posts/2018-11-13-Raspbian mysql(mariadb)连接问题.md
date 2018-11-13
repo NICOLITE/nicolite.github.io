@@ -1,6 +1,6 @@
 ---
 title: Raspbian mysql(mariadb)连接问题
-date:  2018-11-13 20:17:30
+date: 2018-11-13 20:17:30
 categories:
 - Raspbian
 tags:
