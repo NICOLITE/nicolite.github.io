@@ -9,6 +9,7 @@ tags:
 - mysql
 - mariadb
 ---
+树莓派3B+上安装完mysql只能通过sudo mysql -uroot登录
 ![](/images/20181113-201730-1.png)
 
 #### 问题
