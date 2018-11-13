@@ -6,14 +6,13 @@ categories:
 tags: 
 ---
 现在几乎每个应用都有启动画面，所以学习的时候肯定不能错过,这里已Android Studio为例，Eclipse的类似  
-**1.首先将我们的图片复制到res->drawable下,我这里是splash.png**  
+#### 1.首先将我们的图片复制到res->drawable下,我这里是splash.png  
+![](/images/20161003-145544-1.png)
 
-<img src="http://blog-10069184.cos.myqcloud.com/Android/%E9%80%9A%E8%BF%87Activity%E5%AE%9E%E7%8E%B0Splash/splashPic.png" alt="splashpic" class="aligncenter size-full wp-image-601" />  
+#### 2.然后在res->layout下新建一个名为splash的布局文件  
+![](/images/20161003-145544-2.png)  
 
-**2.然后在res->layout下新建一个名为splash的布局文件**  
-<img src="http://blog-10069184.cos.myqcloud.com/Android/%E9%80%9A%E8%BF%87Activity%E5%AE%9E%E7%8E%B0Splash/splashLayout.png" alt="splashlayout" class="aligncenter size-full wp-image-600" />  
-
-**布局文件的代码如下**  
+#### 布局文件的代码如下  
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -36,11 +35,10 @@ tags:
 </RelativeLayout>
 ```
 
-**在你的活动所在文件夹新建一个名为SplashActivity的类**  
+#### 在你的活动所在文件夹新建一个名为SplashActivity的类  
+![](/images/20161003-145544-3.png)  
 
-<img src="http://blog-10069184.cos.myqcloud.com/Android/%E9%80%9A%E8%BF%87Activity%E5%AE%9E%E7%8E%B0Splash/splashActivity.png" alt="splashactivity" class="aligncenter size-full wp-image-599" />  
-
-**类中的代码如下**  
+#### 类中的代码如下  
 
 ```java
 public class SplashActivity extends Activity {
@@ -64,7 +62,7 @@ public class SplashActivity extends Activity {
 }
 ```
 
-**到这里还不够，我们还得修改AndroidManifes.xml文件**  
+#### 到这里还不够，我们还得修改AndroidManifes.xml文件
 ```xml
  <activity
             android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"
@@ -81,5 +79,5 @@ public class SplashActivity extends Activity {
         <!-- 注册启动splash后要启动的活动 -->
 ```
 
-**效果如下**   
-<img src="http://blog-10069184.cos.myqcloud.com/Android/%E9%80%9A%E8%BF%87Activity%E5%AE%9E%E7%8E%B0Splash/splash.png" alt="splash" class="aligncenter size-large wp-image-606" />  
+#### 效果如下  
+![](/images/20161003-145544-4.png)
