@@ -162,7 +162,7 @@ scheme: Muse
 #     light, light italic, normal, normal italic, bold, bold italic
 # - Be aware that setting too much fonts will cause site running slowly
 # - Introduce in 5.0.1
-# ---------------------------------------------------------------
+# ---------------------------------------------------------------use_motion
 font:
   enable: true
 

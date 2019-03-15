@@ -10,7 +10,7 @@ tags:
 - mariadb
 ---
 树莓派3B+上安装完mysql只能通过sudo mysql -uroot登录
-![](/images/20181113-201730-1.png)
+![](/images/2018/20181113-201730-1.png)
 
 #### 问题
 今天在树莓派3B+上安装mysql(安装命令sudo apt install mysql-server mysql-client)出现了如下问题

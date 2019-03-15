@@ -7,10 +7,10 @@ tags:
 ---
 现在几乎每个应用都有启动画面，所以学习的时候肯定不能错过,这里已Android Studio为例，Eclipse的类似  
 #### 1.首先将我们的图片复制到res->drawable下,我这里是splash.png  
-![](/images/20161003-145544-1.png)
+![](/images/2016/20161003-145544-1.png)
 
 #### 2.然后在res->layout下新建一个名为splash的布局文件  
-![](/images/20161003-145544-2.png)  
+![](/images/2016/20161003-145544-2.png)  
 
 #### 布局文件的代码如下  
 
@@ -36,7 +36,7 @@ tags:
 ```
 
 #### 在你的活动所在文件夹新建一个名为SplashActivity的类  
-![](/images/20161003-145544-3.png)  
+![](/images/2016/20161003-145544-3.png)  
 
 #### 类中的代码如下  
 
@@ -80,4 +80,4 @@ public class SplashActivity extends Activity {
 ```
 
 #### 效果如下  
-![](/images/20161003-145544-4.png)
+![](/images/2016/20161003-145544-4.png)
