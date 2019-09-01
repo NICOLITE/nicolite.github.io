@@ -31,6 +31,9 @@ sudo mysql -uroot
 
 use mysql;
 update user set password=password('yourpassword') where user='root';
+//如果报错的话使用这一条
+update user set authentication_string=password('yourpassword') where user='root'
+
 update user set plugin='mysql_native_password' where user='root';
 flush privileges;
 exit;
